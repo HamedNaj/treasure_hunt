@@ -28,7 +28,7 @@ const challenges = [{
   answers: ['mahshid'],
   firstQuestion: true
 }, {
-  question: 'what was the song we listened the most in our firt vacation',
+  question: 'what was the song we listened the most in our first vacation',
   desc: '6 letter',
   hint: 'from me',
   answers: ['saveme'],
@@ -57,13 +57,13 @@ const challenges = [{
   answers: ['omid', 'shahrakomid'],
 
 },{
-  question: 'what is my favorite position?\n',
+  question: 'what is my favorite position?',
   desc: '9 letters',
   hint: 'your legs will rich the skies',
   answers: ['forghooni'],
 
 }, {
-  question: 'where did I kiss you for the first time ? \n',
+  question: 'where did I kiss you for the first time ? ',
   desc: '3 letters',
   hint: 'it was in my car in front of ....',
   answers: ['ava'],
@@ -81,7 +81,7 @@ const challenges = [{
   answers: ['granada'],
 
 }, {
-  question: 'what was our seat number in airplane coming back to tehran \n',
+  question: 'what was our seat number in airplane coming back to tehran ',
   desc: 'you can find the ticket between the teas',
   hint: '',
   answers: ['12c'],
@@ -93,12 +93,12 @@ const challenges = [{
   answers: ['46','47','48','49','45','44'],
 
 }, {
-  question: 'fill the blanks “love you from enghelab complex ------ call me ----”',
+  question: 'fill the blanks “love you from enghelab complex ------ call me ----” BUT first have a drink then find it',
   desc: 'find the letter inside of a drawer',
   hint: '',
   answers: ['ashghalibabei']
 }, {
-  question: 'im a note inside a big red container and there are 3 ways to get to me',
+  question: 'im a note inside a big red container and there are 3 ways to get to the container',
   desc: 'find me inside that container',
   hint: 'you will need a key to get inside it',
   answers: ['letsgo'],
@@ -109,17 +109,17 @@ const challenges = [{
   hint: '',
   answers: ['hello'],
 }, {
-  question: 'find me inside of a mountain climbing tools\n',
+  question: 'find me inside of the mountain climbing stuff',
   desc: '4 letters',
   hint: 'its so high',
   answers: ['beta']
 }, {
-  question: 'there are many plastics around me but im very special, keep the content it will be needed later\n',
+  question: 'there are many plastics around me but im very special, keep the content it will be needed later',
   desc: 'its written on the content',
   hint: 'the plastic reminds you of a very good trip',
   answers: ['fire'],
 }, {
-  question: 'what was the birthday girl name in Antaliya\n',
+  question: 'what was the birthday girl name in Antaliya',
   desc: '8 letters',
   hint: '',
   answers: ['fereshte']
@@ -134,7 +134,7 @@ const challenges = [{
   hint: 'last digit is 7',
   answers: ['427']
 },{
-  question: 'im behind a shy girl \n',
+  question: 'im behind a shy girl ',
   desc: '4 letters',
   hint: 'your last present to me',
   answers: ['gooz']
